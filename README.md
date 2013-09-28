@@ -1,4 +1,4 @@
-Rails--Second-Step
+Rails' Second-Step
 ==================
 
 搞懂CRUD後該懂的架站技巧及實務
@@ -16,6 +16,13 @@ Rails--Second-Step
 ### [CANCAN]() -
   這個套件可以用來對使用者的權限做控管
   相關介紹請參見xdite的「[Cancan 實作角色權限設計的最佳實踐](http://blog.xdite.net/posts/2012/07/30/cancan-rule-engine-authorization-based-library-1)」
+  
+  
+## 後台
+
+### [ActiveAdmin](http://www.activeadmin.info/) -
+  
+### [rails_admin](https://github.com/sferik/rails_admin) - 
   
   
 ## 除錯及效能監控
@@ -37,6 +44,24 @@ Rails--Second-Step
   在production下發生error時，會將error log記錄在Airbrake的系統後台，並同時寄送一封信到註冊的email信箱。非常實用。但是一樣推薦安裝在production scope中。
   
   
+  
+
+## Worker & 排程
+
+### [Delayed_job](https://github.com/collectiveidea/delayed_job)
+
+### [Resque](https://github.com/resque/resque)
+
+### [Sidekiq](https://github.com/mperham/sidekiq)
+
+以上三個套件的比較可以參考：https://github.com/mperham/sidekiq/wiki/FAQ
+
+### [devise-async](https://github.com/mhfs/devise-async)
+  
+### [Whenever](https://github.com/javan/whenever)
+  
+  
+  
 ## 前端編程效率
 
 ### Slim
@@ -46,3 +71,6 @@ Rails--Second-Step
 ### Campass
 
 ### Coffee_Script
+  
+  
+  
