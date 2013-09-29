@@ -90,7 +90,8 @@ Rails' Second-Step
 ## 系統安全、備份
 
 ### [Backup](https://github.com/meskyanichi/backup)
-  幫你的SQL做備份，可搭配「Whenever」做定期備份機制。
+  幫你的SQL做備份，可搭配「Whenever」做定期備份機制。  
+  可以參考黃金俠的「[用 backup gem 做自動化備份](http://rubyist.marsz.tw/blog/2012-03-08/backup-gem/)」
 
 ### [Brakeman](https://github.com/presidentbeef/brakeman)
   掃描你專案中的安全性弱點
