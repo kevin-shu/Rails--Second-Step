@@ -103,5 +103,5 @@ Rails' Second-Step
 ## Document
 
 ### [Rails-ERD](https://github.com/voormedia/rails-erd)
-  這個套件可以幫你自動化產出 UML 圖形，原理是找所有的 model 檔並依 relation 找到彼此關係。  
+  這個套件可以幫你自動化產出 UML 關係圖，原理是找所有的 model 檔並依 relation 找到彼此關係。  
   順帶一提，它也能檢查你的系統的 relation 有沒有錯誤。
