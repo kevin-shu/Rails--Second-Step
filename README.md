@@ -99,3 +99,9 @@ Rails' Second-Step
 ### [Rails SQL Injection](http://rails-sqli.org/)
   這不是套件，是一個網站，上面整理了Rails專案中最常遇到的SQL injection問題
 
+
+## Document
+
+### [Rails-ERD](https://github.com/voormedia/rails-erd)
+  這個套件可以幫你自動化產出 UML 圖形，原理是找所有的 model 檔並依 relation 找到彼此關係。  
+  順帶一提，它也能檢查你的系統的 relation 有沒有錯誤。
