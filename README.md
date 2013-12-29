@@ -98,7 +98,9 @@ Rails' Second-Step
 
 ### [Rails SQL Injection](http://rails-sqli.org/)
   這不是套件，是一個網站，上面整理了Rails專案中最常遇到的SQL injection問題
-
+  
+### [Session CookieStore issue](http://tech.shaolin.tw/posts/2013/12/17/security-issue-of-rails-cookiestore-mechanism)
+> session 如果使用預設的 CookieStore 機制，產生的 session cookie 永不失效，即使登出後產生了新的 session cookie，舊有的 session cookie 仍然可以拿來作為認證用途
 
 ## Document
 
